@@ -1,0 +1,21 @@
+﻿
+<ArrayOfButtonsMenu>
+  <ButtonsMenu>
+    <EntityState>Unchanged</EntityState>
+    <ID>10001</ID>
+    <Text>Alta empleados</Text>
+    <Component>Allus.FrontEnd.Empleados.frmEmpleados, Allus.FrontEnd.Empleados</Component>
+  </ButtonsMenu>	
+  <ButtonsMenu>
+    <EntityState>Unchanged</EntityState>
+    <ID>20000</ID>
+    <Text>Mensajeraria de bienvenida</Text>
+	  <Component>Allus.Front.Mensajera.Form1, Allus.Front.Mensajera</Component>
+  </ButtonsMenu>
+ <ButtonsMenu>
+    <EntityState>Unchanged</EntityState>
+    <ID>30000</ID>
+    <Text>Otro modulo (no desarrollar)</Text>
+    <Component></Component>
+  </ButtonsMenu>
+</ArrayOfButtonsMenu>

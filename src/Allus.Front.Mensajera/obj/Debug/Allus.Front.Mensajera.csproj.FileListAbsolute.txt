@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\obj\Debug\Allus.Front.Mensajera.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\obj\Debug\Allus.Front.Mensajera.Form1.resources
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\obj\Debug\Allus.Front.Mensajera.Properties.Resources.resources
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\obj\Debug\Allus.Front.Mensajera.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\obj\Debug\Allus.Front.Mensajera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\bin\Debug\Allus.Front.Mensajera.exe.config
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\bin\Debug\Allus.Front.Mensajera.exe
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\bin\Debug\Allus.Front.Mensajera.pdb
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\bin\Debug\Allus.Front.Bases.exe
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\bin\Debug\Fwk.Bases.dll
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\bin\Debug\Allus.Front.Bases.pdb
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\bin\Debug\Allus.Front.Bases.exe.config
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\obj\Debug\Allus.Front.Mensajera.csproj.CopyComplete
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\obj\Debug\Allus.Front.Mensajera.exe
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.Front.Mensajera\obj\Debug\Allus.Front.Mensajera.pdb

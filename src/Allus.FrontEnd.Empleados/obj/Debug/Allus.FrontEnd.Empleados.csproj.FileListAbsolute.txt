@@ -1,0 +1,16 @@
+C:\Users\sebastian.betancur\Desktop\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.Properties.Resources.resources
+C:\Users\sebastian.betancur\Desktop\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.csproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\bin\Debug\Allus.FrontEnd.Empleados.dll
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\bin\Debug\Allus.FrontEnd.Empleados.pdb
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\bin\Debug\Allus.Front.Bases.exe
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\bin\Debug\Fwk.Bases.dll
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\bin\Debug\Allus.Front.Bases.pdb
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\bin\Debug\Allus.Front.Bases.exe.config
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.frmEmpleados.resources
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.Properties.Resources.resources
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.csproj.CopyComplete
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.dll
+C:\Users\Usuario\source\repos\PruebaKonectaJhonHernandez\Examen_NET\src\Allus.FrontEnd.Empleados\obj\Debug\Allus.FrontEnd.Empleados.pdb
